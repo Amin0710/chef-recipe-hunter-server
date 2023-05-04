@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Rahima Begum",
+		"experience": 12,
+		"num_recipes": 6,
+		"likes": 256,
+		"rating": 4.5,
+		"description": "Chef Rahima Begum is an expert in traditional Bangladeshi cuisine, with over 12 years of experience. She has a passion for using fresh and locally sourced ingredients, and is known for her flavorful curries and biryanis. In her free time, Rahima enjoys gardening and experimenting with new recipes.",
+		"picture": "https://example.com/chef-1.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Abdul Mannan",
+		"experience": 8,
+		"num_recipes": 4,
+		"likes": 198,
+		"rating": 4.0,
+		"description": "Chef Abdul Mannan is a young and innovative chef with a passion for fusion cuisine. He loves experimenting with different flavors and textures to create unique dishes that combine the best of Bangladeshi and international cuisine. In his free time, Abdul enjoys playing soccer and traveling to new places.",
+		"picture": "https://example.com/chef-2.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Nazrul Islam",
+		"experience": 15,
+		"num_recipes": 9,
+		"likes": 367,
+		"rating": 4.8,
+		"description": "Chef Nazrul Islam is a seasoned chef with over 15 years of experience in Bangladeshi cuisine. He is known for his mastery of spices and herbs, and his ability to create complex flavors with simple ingredients. Nazrul is also an avid photographer and loves to capture the beauty of food in his pictures.",
+		"picture": "https://example.com/chef-3.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Farida Akter",
+		"experience": 5,
+		"num_recipes": 7,
+		"likes": 134,
+		"rating": 3.9,
+		"description": "Chef Farida Akter is a young and talented chef with a passion for healthy and nutritious food. She specializes in vegetarian and vegan cuisine, and loves to create dishes that are both delicious and good for you. In her free time, Farida enjoys practicing yoga and meditation.",
+		"picture": "https://example.com/chef-4.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Zahir Uddin",
+		"experience": 10,
+		"num_recipes": 3,
+		"likes": 56,
+		"rating": 3.5,
+		"description": "Chef Zahir Uddin is a creative chef with a passion for experimenting with new ingredients and techniques. He loves to create dishes that are visually stunning and taste even better than they look. In his free time, Zahir enjoys playing guitar and writing songs.",
+		"picture": "https://example.com/chef-5.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Nasima Akter",
+		"experience": 7,
+		"num_recipes": 6,
+		"likes": 222,
+		"rating": 4.2,
+		"description": "Chef Nasima Akter is a versatile chef with a talent for creating dishes that combine traditional Bangladeshi flavors with modern cooking techniques. She has over 7 years of experience and is known for her expertise in seafood and meat dishes. In her free time, Nasima enjoys painting and exploring new food markets.",
+		"picture": "https://example.com/chef-6.jpg"
+	}
+]
