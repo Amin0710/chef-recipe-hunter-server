@@ -2,6 +2,7 @@
 	{
 		"id": "REC0001",
 		"recipe_name": "Spicy Chicken Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb. boneless, skinless chicken breasts",
 			"2 tbsp. vegetable oil",
@@ -23,6 +24,7 @@
 	{
 		"id": "REC0002",
 		"recipe_name": "Bengali Fish Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb. white fish fillets",
 			"2 tbsp. vegetable oil",
@@ -44,6 +46,7 @@
 	{
 		"id": "REC0003",
 		"recipe_name": "Shrimp Biryani",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb. shrimp, peeled and deveined",
 			"2 tbsp. vegetable oil",
@@ -65,6 +68,7 @@
 	{
 		"id": "REC0004",
 		"recipe_name": "Chicken Tikka Masala",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"chicken breast",
 			"yogurt",
@@ -79,6 +83,7 @@
 	{
 		"id": "REC0005",
 		"recipe_name": "Beef Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"beef stew meat",
 			"onion",
@@ -93,6 +98,7 @@
 	{
 		"id": "REC0006",
 		"recipe_name": "Vegetable Biryani",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["basmati rice", "vegetables", "ghee", "spices", "yogurt"],
 		"method": "Sauté vegetables with spices and ghee, then add rice and cook until tender. Layer rice and vegetables, then top with yogurt and serve.",
 		"rating": 4.0,
@@ -101,6 +107,7 @@
 	{
 		"id": "REC0007",
 		"recipe_name": "Prawn Korma",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["prawns", "onion", "garlic", "ginger", "coconut cream"],
 		"method": "Sauté onion, garlic, and ginger, then add prawns and cook until pink. Add korma spice blend and coconut cream, then simmer until prawns are cooked through. Serve over rice.",
 		"rating": 4.3,
@@ -109,6 +116,7 @@
 	{
 		"id": "REC0008",
 		"recipe_name": "Chapli Kebab",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["ground beef", "onion", "tomato", "spices", "egg"],
 		"method": "Mix ground beef with onion, tomato, spices, and egg, then form into patties and grill or fry. Serve with chutney and naan bread.",
 		"rating": 4.6,
@@ -117,6 +125,7 @@
 	{
 		"id": "REC0009",
 		"recipe_name": "Mango Lassi",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom"],
 		"method": "Blend mango, yogurt, milk, sugar, and cardamom until smooth, then serve chilled.",
 		"rating": 4.0,
@@ -125,6 +134,7 @@
 	{
 		"id": "REC0010",
 		"recipe_name": "Chicken Jalfrezi",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"chicken thigh",
 			"onion",
@@ -139,6 +149,7 @@
 	{
 		"id": "REC0011",
 		"recipe_name": "Chicken Korma",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["chicken", "onion", "garlic", "ginger", "yogurt"],
 		"method": "1. Heat oil in a pan and fry the onions until golden brown. Add garlic and ginger paste and fry for 2-3 minutes.\n2. Add chicken and fry until golden brown. Add salt to taste.\n3. Add yogurt and simmer on low heat until the chicken is cooked through.\n4. Serve hot with rice or naan bread.",
 		"rating": 4.2,
@@ -147,6 +158,7 @@
 	{
 		"id": "REC0012",
 		"recipe_name": "Fish Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["fish", "onion", "garlic", "ginger", "tomato"],
 		"method": "1. Heat oil in a pan and fry the onions until golden brown. Add garlic and ginger paste and fry for 2-3 minutes.\n2. Add tomatoes and fry until they are soft.\n3. Add fish and fry for 5-6 minutes on medium heat.\n4. Add water and simmer on low heat until the fish is cooked through.\n5. Serve hot with rice or naan bread.",
 		"rating": 4.5,
@@ -155,6 +167,7 @@
 	{
 		"id": "REC0013",
 		"recipe_name": "Vegetable Biryani",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["rice", "mixed vegetables", "onion", "garlic", "ginger"],
 		"method": "1. Heat oil in a pan and fry the onions until golden brown. Add garlic and ginger paste and fry for 2-3 minutes.\n2. Add mixed vegetables and fry for 5-6 minutes on medium heat.\n3. Add rice and fry for 2-3 minutes.\n4. Add water and salt to taste, and cook until the rice is done.\n5. Serve hot with raita and papadum.",
 		"rating": 4.0,
@@ -163,6 +176,7 @@
 	{
 		"id": "REC0014",
 		"recipe_name": "Mutton Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["mutton", "onion", "garlic", "ginger", "tomato"],
 		"method": "1. Heat oil in a pan and fry the onions until golden brown. Add garlic and ginger paste and fry for 2-3 minutes.\n2. Add tomatoes and fry until they are soft.\n3. Add mutton and fry for 10-15 minutes on medium heat.\n4. Add water and salt to taste, and simmer on low heat until the mutton is cooked through.\n5. Serve hot with rice or naan bread.",
 		"rating": 4.3,
@@ -171,6 +185,7 @@
 	{
 		"id": "REC0015",
 		"recipe_name": "Chana Masala",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": ["chickpeas", "onion", "garlic", "ginger", "tomato"],
 		"method": "1. Heat oil in a pan and fry the onions until golden brown. Add garlic and ginger paste and fry for 2-3 minutes.\n2. Add tomatoes and fry until they are soft.\n3. Add chickpeas and fry for 5-6 minutes on medium heat.\n4. Add water and salt to taste.",
 		"rating": 4.3,
@@ -179,6 +194,7 @@
 	{
 		"id": "REC0016",
 		"recipe_name": "Bengali Fish Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"2 lbs fish fillets",
 			"2 onions, finely chopped",
@@ -199,6 +215,7 @@
 	{
 		"id": "REC0017",
 		"recipe_name": "Chicken Korma",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb boneless chicken",
 			"2 onions, finely chopped",
@@ -220,6 +237,7 @@
 	{
 		"id": "REC0018",
 		"recipe_name": "Beef Bhuna",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb beef, cut into small pieces",
 			"2 onions, finely chopped",
@@ -240,6 +258,7 @@
 	{
 		"id": "REC0019",
 		"recipe_name": "Kacchi Biriyani",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 kg mutton",
 			"1 kg basmati rice",
@@ -267,6 +286,7 @@
 	{
 		"id": "REC0020",
 		"recipe_name": "Chicken Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"2 lbs. boneless, skinless chicken breasts, cut into bite-sized pieces",
 			"2 tbsp. vegetable oil",
@@ -291,6 +311,7 @@
 	{
 		"id": "REC0021",
 		"recipe_name": "Beef Stroganoff",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb. beef sirloin, cut into thin strips",
 			"2 tbsp. vegetable oil",
@@ -311,6 +332,7 @@
 	{
 		"id": "REC0022",
 		"recipe_name": "Spicy Chicken Tacos",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb. boneless, skinless chicken breasts, cut into strips",
 			"1 tbsp. olive oil",
@@ -332,6 +354,7 @@
 	{
 		"id": "REC0023",
 		"recipe_name": "Vegetable Stir-Fry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"2 tbsp. vegetable oil",
 			"1 onion, chopped",
@@ -355,6 +378,7 @@
 	{
 		"id": "REC0024",
 		"recipe_name": "Vegetable Curry",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"2 tbsp. vegetable oil",
 			"1 onion, chopped",
@@ -377,6 +401,7 @@
 	{
 		"id": "REC0025",
 		"recipe_name": "Spaghetti Carbonara",
+		"picture": "https://www.onceinalifetimejourney.com/wp-content/uploads/2019/08/A-Bangladeshi-food-feast.jpg",
 		"ingredients": [
 			"1 lb. spaghetti",
 			"6 slices bacon, chopped",
