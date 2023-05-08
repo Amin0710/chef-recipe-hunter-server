@@ -8,7 +8,16 @@ const recipes = require("./data/recipes.json");
 
 app.use(cors());
 app.get("/", (req, res) => {
-	res.send("Khabar khabo");
+	res.send(`
+		<p>
+			Check out 6 <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/chefs">chefs</a> API
+			and 27 <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/recipes">recipes</a>!
+		</p>
+		<p>
+			Also you can go to indivudual <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/chefs/rahima_begum_01">chef's recipes</a> with their ID
+			and Spcific <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/recipes">recipe</a> for more info like its ingredient and cooking method '!
+		</p>
+	`);
 });
 
 app.get("/chefs", (req, res) => {
