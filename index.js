@@ -10,12 +10,12 @@ app.use(cors());
 app.get("/", (req, res) => {
 	res.send(`
 		<p>
-			Check out 6 <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/chefs">chefs</a> API
-			and 27 <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/recipes">recipes</a>!
+			Check out 6 <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/chefs" target="_blank">chefs</a> API
+			and 27 <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/recipes" target="_blank">recipes</a>!
 		</p>
 		<p>
-			Also you can go to indivudual <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/chefs/rahima_begum_01">chef's recipes</a> with their ID
-			and Spcific <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/recipes">recipe</a> for more info like its ingredient and cooking method '!
+			Also, you can go to individual <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/chefs/rahima_begum_01" target="_blank">chef's recipes</a> with their ID
+			and specific <a href="https://b7a10-chef-recipe-hunter-server-side-amin0710-amin0710.vercel.app/recipes/REC0001" target="_blank">recipe</a> for more information like its ingredients and cooking method!
 		</p>
 	`);
 });
