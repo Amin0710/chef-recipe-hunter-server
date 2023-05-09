@@ -1,3 +1,11 @@
+const https = require("https");
+const fs = require("fs");
+
+const options = {
+	key: fs.readFileSync("private-key.pem"),
+	cert: fs.readFileSync("public-cert.pem"),
+};
+
 const express = require("express");
 const cors = require("cors");
 const app = express();
@@ -41,3 +49,5 @@ app.get("/recipes/:id", (req, res) => {
 app.listen(port, () => {
 	console.log(`khabar is on port ${port}`);
 });
+
+https.createServer(options, app).listen(443);
